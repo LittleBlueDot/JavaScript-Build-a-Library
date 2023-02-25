@@ -2,4 +2,4 @@
 
 # Build a Library
 
-Codeacademy project: create a parent class named Media with three subclasses: Book, Movie, and CD. These three subclasses have some same and also different properties and methods.
+Codecademy project: create a parent class named Media with three subclasses: Book, Movie, and CD. These three subclasses have some same and also different properties and methods.
